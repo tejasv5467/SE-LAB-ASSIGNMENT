@@ -1,4 +1,6 @@
-# L6_L7_63 — House Painting Quote
+# Lab 7 assignment
+
+## L6_L7_63 — House Painting Quote
 
 Lab 7: Fuzzing for Input Validation Bugs
 
