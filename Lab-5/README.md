@@ -1,4 +1,6 @@
-# Lab 5: Static Code Analysis — Subscription Billing System
+# Lab 5 assignment
+
+## Lab 5: Static Code Analysis — Subscription Billing System
 
 **Your file:** `billing_system.py`
 **Python:** 3.10 or newer
