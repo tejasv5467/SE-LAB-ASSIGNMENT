@@ -1,4 +1,6 @@
-# L6_L7_63 — House Painting Quote
+# Lab 6 assignment
+
+## L6_L7_63 — House Painting Quote
 
 Lab 6: Code and Branch Coverage
 
